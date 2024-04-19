@@ -39,6 +39,8 @@ https://siliconmisiones.gob.ar/bioinformatica/
 🏥🧬👨‍🔬 I got a sequencer through Equipar Ciencia Miseq (06/2022 - Present) https://www.argentina.gob.ar/noticias/el-mincyt-traves-del-programa-federal-equipar-ciencia-con-una-inversion-de-7800-millones-de
 
 📱💻🏥 Investiga Health Scholarship: PublicVar (10/2023 - Present) For the development of bioinformatics tools for breast-ovarian cancer https://www.argentina.gob.ar/salud/investiga/convocatorias-becas-de-investigacion-salud-investiga/ganadores-de-las-becas-salud
+
+🔐👨‍💻🕵️ Crypthopy: Python cryptography app educates on fundamental principles, mechanisms, algorithms, and best practices. https://crypthophy.streamlit.app/
 <!--
 **rodrib/rodrib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
