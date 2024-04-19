@@ -1,4 +1,4 @@
-### Hi, I am rodrigo bogado 👋
+# Hi, I am rodrigo bogado 👋
 
 About me:
 
@@ -28,7 +28,7 @@ Game Indie Developer
 
 ![👨‍🏫🧬💻 I am a teacher of Bioinformatics](https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%F0%9F%A7%AC%F0%9F%92%BB%20I%20am%20a%20teacher%20of%20Bioinformatics-black?style=for-the-badge&color=white)
 
-
+## Featured projects
 
 <!--
 **rodrib/rodrib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
