@@ -28,6 +28,8 @@ Game Indie Developer
 
 ![👨‍🏫🧬💻 I am a teacher of Bioinformatics](https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%F0%9F%A7%AC%F0%9F%92%BB%20I%20am%20a%20teacher%20of%20Bioinformatics-black?style=for-the-badge&color=white)
 
+https://siliconmisiones.gob.ar/bioinformatica/
+
 ## Featured projects
 
 🎮✍️👨‍💻 Septem obtained 3rd Place in My First Video Game Published (03/2020 - 08/2020) https://adva.vg/mpvp/
