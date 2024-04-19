@@ -30,6 +30,9 @@ Game Indie Developer
 
 ## Featured projects
 
+🎮 Septem obtained 3rd Place in My First Video Game Published (03/2020 - 08/2020) https://adva.vg/mpvp/
+
+🎀🔬🧬 APPLICATION OF A MULTIGENE PANEL FOR THE SEARCH FOR RISK GENETIC VARIANTS IN HEREDITARY BREAST/OVARIAN CANCER SINCE FIELD OF PUBLIC HEALTH (01/2021 - Present) We obtained funding through the National Cancer Institute for the development of this project. https://www.argentina.gob.ar/sites/default/files/listado_adjudicacion_ip_linea_cancer-origen-nacional.pdf
 <!--
 **rodrib/rodrib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
