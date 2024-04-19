@@ -30,9 +30,13 @@ Game Indie Developer
 
 ## Featured projects
 
-🎮 Septem obtained 3rd Place in My First Video Game Published (03/2020 - 08/2020) https://adva.vg/mpvp/
+🎮✍️👨‍💻 Septem obtained 3rd Place in My First Video Game Published (03/2020 - 08/2020) https://adva.vg/mpvp/
 
 🎀🔬🧬 APPLICATION OF A MULTIGENE PANEL FOR THE SEARCH FOR RISK GENETIC VARIANTS IN HEREDITARY BREAST/OVARIAN CANCER SINCE FIELD OF PUBLIC HEALTH (01/2021 - Present) We obtained funding through the National Cancer Institute for the development of this project. https://www.argentina.gob.ar/sites/default/files/listado_adjudicacion_ip_linea_cancer-origen-nacional.pdf
+
+🏥🧬👨‍🔬 I got a sequencer through Equipar Ciencia Miseq (06/2022 - Present) https://www.argentina.gob.ar/noticias/el-mincyt-traves-del-programa-federal-equipar-ciencia-con-una-inversion-de-7800-millones-de
+
+📱💻🏥 Investiga Health Scholarship: PublicVar (10/2023 - Present) For the development of bioinformatics tools for breast-ovarian cancer https://www.argentina.gob.ar/salud/investiga/convocatorias-becas-de-investigacion-salud-investiga/ganadores-de-las-becas-salud
 <!--
 **rodrib/rodrib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
