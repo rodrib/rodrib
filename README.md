@@ -26,6 +26,9 @@ Game Indie Developer
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
+![👨‍🏫🧬💻 I am a teacher of Bioinformatics](https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%F0%9F%A7%AC%F0%9F%92%BB%20I%20am%20a%20teacher%20of%20Bioinformatics-black?style=for-the-badge&color=white)
+
+
 
 <!--
 **rodrib/rodrib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
