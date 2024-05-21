@@ -34,6 +34,8 @@ https://siliconmisiones.gob.ar/bioinformatica/
 
 🎮✍️👨‍💻 Septem obtained 3rd Place in My First Video Game Published (03/2020 - 08/2020) https://adva.vg/mpvp/
 
+👨‍🏫📚🎮 Director of the work, Case study: "Functional video games that promote physical exercise as a rehabilitation strategy for a patient with depressive disorders who suffers from central sensitivity syndrome, in the town of El Soberbio, Misiones, Argentina". https://drive.google.com/file/d/1PusfGk2XwIKBHUqGAnyR0R3568779IQn/view?usp=drive_link
+
 🎀🔬🧬 APPLICATION OF A MULTIGENE PANEL FOR THE SEARCH FOR RISK GENETIC VARIANTS IN HEREDITARY BREAST/OVARIAN CANCER SINCE FIELD OF PUBLIC HEALTH (01/2021 - Present) We obtained funding through the National Cancer Institute for the development of this project. https://www.argentina.gob.ar/sites/default/files/listado_adjudicacion_ip_linea_cancer-origen-nacional.pdf
 
 🏥🧬👨‍🔬 I got a sequencer through Equipar Ciencia Miseq (06/2022 - Present) https://www.argentina.gob.ar/noticias/el-mincyt-traves-del-programa-federal-equipar-ciencia-con-una-inversion-de-7800-millones-de
